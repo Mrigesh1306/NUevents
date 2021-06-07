@@ -1,1 +1,3 @@
-NUvents Technologies - Angular 10, Express, NodeJS, MongoDb
+NUvents 
+
+Technologies - Angular 10, Express, NodeJS, MongoDb
